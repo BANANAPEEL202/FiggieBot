@@ -13,11 +13,6 @@ A red border around the display indicates that the screen is out of sync and the
 2. Install all dependencies for the Python Server (found in requirements.txt)
 3. Download the Processing UI Executable from [here](https://www.dropbox.com/scl/fo/gc0esniabuzvkd9xy60qu/h?rlkey=nwmxmtbk1mx4xlibhjqa7lz08&dl=0)
 
-# Configuration
-1. Open up the Server.py in an IDE
-2. Modify the frames (such as redFrame, tradeFrame) to crop the corresponding section of the screen on your device
-3. For more help, feel free to open an issue
-
 # Usage
 1. Run Server.py
 2. Run the Processing.org executable
@@ -26,3 +21,9 @@ A red border around the display indicates that the screen is out of sync and the
 5. Once the game begins, click "Count Cards". This will include the cards in your starting hand in the Card Counter.
 6. If the player colors on Figgie.com do not match the player colors on the display, click "Swap Colors"
 7. For a new round, click "New Round". 
+
+# Configuration
+1. Open up the Server.py in an IDE
+2. Modify the frames (such as redFrame, tradeFrame) to crop the corresponding section of the screen on your device
+3. For more help, feel free to open an issue
+
