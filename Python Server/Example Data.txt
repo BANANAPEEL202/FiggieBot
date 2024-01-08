@@ -1,0 +1,33 @@
+Bot-Ferret20: 1bid spades
+Bot-Meerkat519: clubs 4 atn
+Bot-Rat959: Diamonds ¢ at26
+Bot-Gazelle719: spades ¢ at6
+Bot-Rat959: 8 bid diamonds+
+Bot-Gazelle719: spades ¢ at10
+awg bought spades ¢ from Bot-Gazelle719 for 10
+Bot-Rat959: Hearts v at 13
+Bot-Ferret20: 2 bid clubs +
+awg sold clubs # to Bot-Ferret20 at 2
+Bot-Meerkat519: 4 bid clubs&
+Bot-Gazelle719: 1 biddiamonds #
+Bot-Ferret20: Hearts v at 12
+Bot-Meerkat519: 3 bid clubs&
+Bot-Rat959: clubs 4 at 9
+YOU: 3 bid diamonds ¢
+Bot-Meerkat519: Hearts vat 6
+YOU: Diamonds ¢ at 2
+Bot-Meerkat519: Hearts vat 10
+awg sold clubs # to Bot-Meerkat519 at 3
+Bot-Rat959: 1bid clubs +
+Bot-Ferret20: 1bid hearts ¥
+Bot-Meerkat519: clubs 4 at22
+Bot-Gazelle719: 1 bid spadeso
+Bot-Rat959: 9 bid diamonds+
+Bot-Ferret20: spades 4 at 5
+awg bought clubs # from Bot-Meerkat519 for 22
+Bot-Gazelle719: Hearts v at14
+Bot-Meerkat519: 1bidspades @
+awg bought hearts ¥ from Bot-Gazelle719 for 14
+Bot-Meerkat519: 1bidspades @
+Bot-Ferret20: Diamonds ¢ atn
+Bot-Ferret20: 3 bid clubs +
