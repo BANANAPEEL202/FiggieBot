@@ -1,4 +1,6 @@
 # FiggieBot
+<img width="1182" alt="Screenshot 2024-02-15 at 6 07 29 PM" src="https://github.com/BANANAPEEL202/FiggieBot/assets/67805049/b642f1e0-14fd-4f06-938e-037e2e0a1896">
+
 A statistics display for the Jane Street trading game, Figgie. A Python script/server records the screen and uses Pytesseract OCR to retrieve data from a Figgie.com game and send it to the Frontend UI which is based on Processing.org.  
 This repo is configured to work specifically with an M2 Macbook Air 13" display with Figgie.com opened in Chrome at 90% Zoom and an external display. Configurations can be set up for different devices (see Configuration for more details)
 
